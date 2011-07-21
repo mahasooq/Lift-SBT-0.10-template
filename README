@@ -1,0 +1,8 @@
+Lift-SBT-0.10-template
+
+> git clone http://github.com/mahasooq/Lift-SBT-0.10-template.git
+> cd Lift-SBT-0.10-template
+> sbt
+> jetty-run
+
+Your webapp is running on http://localhost:8080
