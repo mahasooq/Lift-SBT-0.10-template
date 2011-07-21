@@ -1,6 +1,6 @@
 Lift-SBT-0.10-template
 
-> git clone https://mahasooq@github.com/mahasooq/Lift-SBT-0.10-template.git
+> git clone https://github.com/mahasooq/Lift-SBT-0.10-template.git
 > cd Lift-SBT-0.10-template
 > sbt
 > jetty-run
